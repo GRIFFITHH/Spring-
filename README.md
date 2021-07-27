@@ -1,5 +1,5 @@
 # Spring and OOP study
-[Inflearn] 김영한 강사님의 스프링 핵심 원리 - 기본편을 참고하여 공부한 내용을 블로그에 정리하였습니다.
+[Inflearn] 김영한 강사님의 '스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술' 을 참고하여 공부한 내용을 블로그에 정리하였습니다.
 
 1. [객체지향 프로그래밍](https://griffithh.tistory.com/15)
 2. [스프링 핵심 원리 - 기본편 , 중간정리 (7월7일 내용수정)](https://griffithh.tistory.com/73?category=936236)
